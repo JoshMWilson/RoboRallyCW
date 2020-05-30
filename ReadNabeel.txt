@@ -1,5 +1,9 @@
 Nabel.
 
+<<<<<<< Updated upstream
 Test
 Test
 Test
+=======
+JMaster Push Test.
+>>>>>>> Stashed changes
